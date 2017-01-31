@@ -1,0 +1,2 @@
+For testing locally, run: 
+BOT_API_KEY=api_key node bin/bot.js
