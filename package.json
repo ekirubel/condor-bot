@@ -12,6 +12,7 @@
     "condorbot": "bot.js"
   },
   "dependencies": {
+    "mongodb": "^2.2.22",
     "slackbots": "^1.0.2",
     "util": "^0.10.3"
   },
